@@ -20,6 +20,12 @@ Outside of work, I enjoy sports, music, and gaming, which help me stay balanced 
 
 From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
 
+## 🎨 Fun Facts
+
+- I love playing and listening to music.
+- I am also passionate about movies and gaming.
+- "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+
 ## 🛠 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -29,14 +35,6 @@ From a young age, I was fascinated by the potential of technology to transform i
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
-
-## 📚 Table of Contents
-
-- [About Me](#about-me)
-- [Technologies & Tools](#technologies--tools)
-- [GitHub Stats](#github-stats)
-- [Fun Facts](#fun-facts)
-- [Contact Me](#contact-me)
 
 ## 📊 GitHub Stats
 
