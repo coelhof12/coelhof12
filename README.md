@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Banner Image](https://imgur.com/U9sqWbr)
+![Banner Image](https://imgur.com/U9sqWbr.jpg)
 
 ## About Me 🧑‍💻
 
