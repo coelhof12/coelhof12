@@ -20,7 +20,7 @@ Outside of work, I enjoy sports, music, and gaming, which help me stay balanced 
 
 From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
 
-## 🛠 Technologies & Tools
+## Technologies & Tools 🛠
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,12 +30,12 @@ From a young age, I was fascinated by the potential of technology to transform i
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 ![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&theme=radical)
 
 
-## 📫 How to reach me
+## How to reach me 📫
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
