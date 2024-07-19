@@ -32,7 +32,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=coelhof12)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&theme=radical)
 
 
 ## 📫 How to reach me
