@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My Profile! 👋
 
 ![Banner Image](https://imgur.com/U9sqWbr.jpg)
 
@@ -19,12 +19,6 @@ Outside of work, I enjoy sports, music, and gaming, which help me stay balanced 
 ## My Journey 🛤️
 
 From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
-
-## 🎨 Fun Facts
-
-- I love playing and listening to music.
-- I am also passionate about movies and gaming.
-- "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 
 ## 🛠 Technologies & Tools
 
