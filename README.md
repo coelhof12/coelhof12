@@ -30,6 +30,14 @@ From a young age, I was fascinated by the potential of technology to transform i
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
 
+## 📚 Table of Contents
+
+- [About Me](#about-me)
+- [Technologies & Tools](#technologies--tools)
+- [GitHub Stats](#github-stats)
+- [Fun Facts](#fun-facts)
+- [Contact Me](#contact-me)
+
 ## 📊 GitHub Stats
 
 ![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
