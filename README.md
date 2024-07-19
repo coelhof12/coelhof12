@@ -15,7 +15,7 @@ What excites me most about full stack development is the ability to build compre
 Outside of work, I enjoy Sports, music and gaming, which help me stay balanced and inspired. Whether it's playing music, gaming, or exploring new technologies, I believe in the importance of continuous learning and personal growth.
 
 ## My Journey
-From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in [Your Degree] from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech 
+From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech 
 
 ## Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or reach out via email. Let's build something amazing together!
