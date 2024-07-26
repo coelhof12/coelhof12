@@ -14,7 +14,7 @@ What excites me most about full stack development is the ability to build compre
 
 ## Beyond Code 🌟
 
-Outside of work, I enjoy sports, music, and gaming, which help me stay balanced and inspired. Whether it's playing music, gaming, or exploring new technologies, I believe in the importance of continuous learning and personal growth.
+Outside of work, I enjoy sports, listening and playing music, exploring diferent cultures by traveling, gaming, which help me stay balanced and inspired. Whether it's playing music, gaming, or exploring new technologies, I believe in the importance of continuous learning and personal growth.
 
 ## My Journey 🛤️
 
