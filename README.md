@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Banner Image](https://imgur.com/U9sqWbr.jpg)
+![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
 ## About Me 🧑‍💻
 
