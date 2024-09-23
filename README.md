@@ -2,6 +2,10 @@
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
+## Additional Information
+
+This repository powers the content and layout of my GitHub profile, showcasing highlights of my projects, skills, and contributions to the developer community.
+
 ## About Me 🧑‍💻
 
 Hello! I'm Francisco Coelho, a passionate Full Stack Developer with experience in Java, JavaScript, HTML, CSS, and SQL. I enjoy creating efficient and scalable web applications. Based in Aveiro, Portugal.
