@@ -2,7 +2,7 @@
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
-## Additional Information
+## The Concept
 
 This repository powers the content and layout of my GitHub profile, showcasing highlights of my projects, skills, and contributions to the developer community.
 
