@@ -43,7 +43,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
-- [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://viewscreen.githubusercontent.com/view/pdf?browser=safari&bypass_fastly=true&color_mode=auto&commit=e5258d2836d8694571fe40f20aa1569a064c7d91&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f636f656c686f6631322f636f656c686f6631322f653532353864323833366438363934353731666534306632306161313536396130363463376439312f43565f4672616e636973636f5f436f656c686f2e706466&logged_in=true&nwo=coelhof12%2Fcoelhof12&path=CV_Francisco_Coelho.pdf&platform=mac&repository_id=830903302&repository_type=Repository&version=17#4670a14d-6cf2-403c-bf94-f3f0c3883ebc)
+- [![Download CV](https://drive.google.com/file/d/19GMW5mok3E_EGEAoVokeK-QXunM_4rlX/view?usp=sharing)
 
 ## Let's Connect 🌐
 
