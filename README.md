@@ -37,7 +37,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## GitHub Stats 📊
 
-![Francisco's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=E63946&text_color=F5F5F5&icon_color=E63946))
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=E63946&text_color=F5F5F5&icon_color=E63946)
 
 
 ## How to reach me 📫
