@@ -30,7 +30,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 [![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://github.com/coelhof12/coelhof12.github.io)
 
-[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon%20Crawler-Java-Based%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game)
+[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game)
 
 ## Technologies & Tools 🛠
 
