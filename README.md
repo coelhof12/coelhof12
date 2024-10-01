@@ -1,7 +1,7 @@
 <h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
 <p align="center">
   <a href="https://github.com/coelhof12">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Full+Stack+Developer;Imagine,+Create+%26+Compile;Technology,+Creativity+%26+Sustainable+Solutions&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile;Technology,+Creativity+%26+Sustainable+Solutions&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946">
   </a>
 </p>
 
