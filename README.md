@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="200" />
+  <h3>Hi there! 👋</h3>
+</div>
+
 # Welcome to My Developer Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
