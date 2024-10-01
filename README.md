@@ -57,6 +57,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&hide=issues,contribs&hide_rank=true&hide_title=true&theme=dark&border_radius=10&title_color=E63946&icon_color=E63946" alt="GitHub Stats" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coelhof12&layout=compact&theme=dark&bg_color=0d1117&title_color=E63946&icon_color=E63946)
 
 ## Contact & Info 📫
 
