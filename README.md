@@ -1,8 +1,9 @@
 <h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
 <p align="center">
-  <a href="https://github.com/coelhof12"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Imagine,+Create,+&+Compile;Technology,+Creativity,+and+sustainable+solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=E63946"></a>
+  <a href="https://github.com/coelhof12">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Full+Stack+Developer;Imagine,+Create+%26+Compile;Technology,+Creativity+%26+Sustainable+Solutions&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946">
+  </a>
 </p>
-
 
 # Welcome to My Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
