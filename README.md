@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="200" />
-  <h3>Hi there! 👋</h3>
-</div>
-
 # Welcome to My Developer Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
@@ -47,10 +42,9 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 [![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game)
 
-
 ## GitHub Stats 📊
 
-![3D Contribution Graph](https://ssr-contributions-svg.vercel.app/_/coelhof12?chart=3dbar&gap=0.6&scale=3&flatten=0&weeks=30&theme=red&widget_size=medium&colors=F8B4B4,E57373,E63946,B71C1C&dark=true)
+<img src="https://ssr-contributions-svg.vercel.app/_/coelhof12?chart=3dbar&gap=0.6&scale=3&flatten=0&weeks=30&theme=red&widget_size=medium&colors=F8B4B4,E57373,E63946,B71C1C&dark=true" alt="3D Contribution Graph" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=E63946&icon_color=E63946)
 
