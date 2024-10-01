@@ -51,8 +51,6 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## GitHub Stats 📊
 
-<img src="https://ssr-contributions-svg.vercel.app/_/coelhof12?chart=3dbar&gap=0.6&scale=3&flatten=0&weeks=30&theme=red&widget_size=medium&colors=F8B4B4,E57373,E63946,B71C1C&dark=true" alt="3D Contribution Graph" />
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=E63946&icon_color=E63946)
 
 ## Contact & Info 📫
