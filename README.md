@@ -10,7 +10,8 @@ This repository powers the content and layout of my GitHub profile, showcasing h
 
 Hello! I'm Francisco Coelho, a passionate Full Stack Developer with experience in Java, JavaScript, HTML, CSS, and SQL. I enjoy creating efficient and scalable web applications. Based in Aveiro, Portugal.
 
-My professional journey began with roles that allowed me to explore different facets of design and development. As a Design Director at Cértoma, I contributed to innovative design solutions in a unique industry. Simultaneously, I co-founded NBox, Lda, where we specialize in the commercialization of wooden boxes and other articles. These roles have enriched my understanding of both the creative and business aspects of product development.
+I am redirecting my career towards programming after studying and applying design knowledge. 
+I aim to explore emerging technologies and develop creative and sustainable solutions that can make a positive impact.
 
 ## What Drives Me 🚀
 
@@ -36,7 +37,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## GitHub Stats 📊
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&theme=radical)
+![Francisco's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=E63946&text_color=F5F5F5&icon_color=E63946))
 
 
 ## How to reach me 📫
