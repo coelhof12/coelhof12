@@ -28,9 +28,10 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## Featured Projects 🎯
 
-[![Portfolio Button](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-E63946?style=for-the-badge)](https://github.com/coelhof12/coelhof12.github.io) A fully responsive portfolio built with React, featuring GitHub API integration, dynamic animations, and multilingual support via Google Translate.
+[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://github.com/coelhof12/coelhof12.github.io) A fully responsive portfolio built with React, featuring GitHub API integration, dynamic animations, and multilingual support via Google Translate.
 
-[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon%20Crawler-Explore%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game) A 2D top-down Java-based game with procedurally generated dungeons, a combat system, and a unique experience every playthrough. This project honed my skills in Java I/O and procedural generation algorithms.
+[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon%20Crawler-Explorer%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game) 
+A 2D top-down Java-based game with procedurally generated dungeons, a combat system, and a unique experience every playthrough. This project honed my skills in Java I/O and procedural generation algorithms.
 
 ## Technologies & Tools 🛠
 
