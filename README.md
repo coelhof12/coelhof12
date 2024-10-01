@@ -1,10 +1,10 @@
 <h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
 <p align="center">
-  <a href="https://github.com/coelhof12"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Frontend+and+Backend+Enthusiast;Imagine,+Create,+& Compile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=E63946"></a>
+  <a href="https://github.com/coelhof12"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Frontend+and+Backend+Enthusiast;Imagine,+Create,+Compile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=E63946"></a>
 </p>
 
 
-# Welcome to My Developer Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
+# Welcome to My Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
