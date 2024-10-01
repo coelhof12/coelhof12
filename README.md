@@ -10,7 +10,7 @@ This repository powers the content and layout of my GitHub profile, showcasing h
 
 Hello! I'm Francisco Coelho, a passionate Full Stack Developer with experience in Java, JavaScript, HTML, CSS, and SQL. I enjoy creating efficient and scalable web applications. Based in Aveiro, Portugal.
 
-I am redirecting my career towards programming after studying and applying design knowledge. 
+I am redirecting my career towards programming after studying and applying design knowledge.
 I aim to explore emerging technologies and develop creative and sustainable solutions that can make a positive impact.
 
 ## What Drives Me 🚀
@@ -39,11 +39,11 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=E63946&text_color=F5F5F5&icon_color=E63946)
 
-
-## How to reach me 📫
+## Contact & Info 📫
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
+- [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](URL HERE)
 
 ## Let's Connect 🌐
 
