@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# Welcome to My Profile! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-red?style=for-the-badge)](https://coelhof12.github.io)
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
@@ -44,7 +44,6 @@ From a young age, I was fascinated by the potential of technology to transform i
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
 - [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/uc?export=download&id=19GMW5mok3E_EGEAoVokeK-QXunM_4rlX)
-- [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-blue?style=for-the-badge)](https://coelhof12.github.io)
 
 
 ## Let's Connect 🌐
