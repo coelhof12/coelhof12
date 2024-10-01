@@ -16,22 +16,20 @@ Based in Aveiro, Portugal, I am looking to make a positive impact through creati
 
 What excites me most about full stack development is the ability to build comprehensive solutions that span both the front-end and back-end. I thrive on creating applications that are not only functional but also user-friendly and visually appealing. Every project is an opportunity to solve problems, learn new technologies, and push the boundaries of what's possible.
 
-## Beyond Code 🌟
-
-Outside of work, I enjoy sports, listening and playing music, exploring diferent cultures by traveling, gaming, which help me stay balanced and inspired. Whether it's playing music, gaming, or exploring new technologies, I believe in the importance of continuous learning and personal growth.
-
 ## My Journey 🛤️
 
 From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
 
 ## Skills & Learning Goals 📚
+
+
 - **Currently Learning**: SQL and data manipulation libraries.
-- **Future Goals**: Enhance my knowledge in cloud infrastructure and scalable architectures & ciber security.
+- **Future Goals**: Expand my knowledge in cloud infrastructure, scalable architectures, and cybersecurity.
 
 ## Featured Projects 🎯
 
-- **[Personal Portfolio](https://github.com/coelhof12/coelhof12.github.io)**: A fully responsive portfolio built with React, featuring GitHub API integration, dynamic animations, and multilingual support via Google Translate.
-- **[Dungeon Crawler Game](https://github.com/coelhof12/dungeon_crawler_game)**: A 2D top-down Java-based game with procedurally generated dungeons, a combat system, and a unique experience every playthrough. This project honed my skills in Java I/O and procedural generation algorithms.
+[![Portfolio Button](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-E63946?style=for-the-badge)](https://github.com/coelhof12/coelhof12.github.io) A fully responsive portfolio built with React, featuring GitHub API integration, dynamic animations, and multilingual support via Google Translate.
+[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon%20Crawler-Explore%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game) A 2D top-down Java-based game with procedurally generated dungeons, a combat system, and a unique experience every playthrough. This project honed my skills in Java I/O and procedural generation algorithms.
 
 ## Technologies & Tools 🛠
 
@@ -45,7 +43,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## GitHub Stats 📊
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coelhof12&theme=rogue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=E63946&icon_color=E63946)
 
 ## Contact & Info 📫
 
