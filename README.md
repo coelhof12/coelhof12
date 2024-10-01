@@ -8,9 +8,19 @@ This repository powers the content and layout of my GitHub profile, showcasing h
 
 ## About Me 🧑‍💻
 
-I'm a Junior Full-Stack Developer transitioning from a background in design to building scalable and efficient web applications. I specialize in Java, JavaScript, HTML, CSS, and SQL, and I’m always excited to explore new technologies.
+I'm a Junior Full-Stack Developer transitioning from a background in design to building scalable and efficient web applications.
 
 Based in Aveiro, Portugal, I am looking to make a positive impact through creative and sustainable tech solutions. Let's connect and build something amazing together!
+
+## Technologies & Tools 🛠
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
 
 ## What Drives Me 🚀
 
@@ -32,15 +42,6 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 [![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game)
 
-## Technologies & Tools 🛠
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
 
 ## GitHub Stats 📊
 
