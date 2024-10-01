@@ -8,10 +8,9 @@ This repository powers the content and layout of my GitHub profile, showcasing h
 
 ## About Me 🧑‍💻
 
-Hello! I'm Francisco Coelho, a passionate Full Stack Developer with experience in Java, JavaScript, HTML, CSS, and SQL. I enjoy creating efficient and scalable web applications. Based in Aveiro, Portugal.
+I'm a Junior Full-Stack Developer transitioning from a background in design to building scalable and efficient web applications. I specialize in Java, JavaScript, HTML, CSS, and SQL, and I’m always excited to explore new technologies.
 
-I am redirecting my career towards programming after studying and applying design knowledge.
-I aim to explore emerging technologies and develop creative and sustainable solutions that can make a positive impact.
+Based in Aveiro, Portugal, I am looking to make a positive impact through creative and sustainable tech solutions. Let's connect and build something amazing together!
 
 ## What Drives Me 🚀
 
@@ -24,6 +23,10 @@ Outside of work, I enjoy sports, listening and playing music, exploring diferent
 ## My Journey 🛤️
 
 From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
+
+## Skills & Learning Goals 📚
+- **Currently Learning**: SQL and data manipulation libraries.
+- **Future Goals**: Enhance my knowledge in cloud infrastructure and scalable architectures & ciber security.
 
 ## Featured Projects 🎯
 
@@ -42,14 +45,13 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## GitHub Stats 📊
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coelhof12&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=E63946&text_color=F5F5F5&icon_color=E63946)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coelhof12&theme=rogue)
 
 ## Contact & Info 📫
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
-- [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/uc?export=download&id=19GMW5mok3E_EGEAoVokeK-QXunM_4rlX)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-coelho1978/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/uc?export=download&id=19GMW5mok3E_EGEAoVokeK-QXunM_4rlX)
 
 ## Let's Connect 🌐
 
