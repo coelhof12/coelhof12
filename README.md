@@ -1,5 +1,10 @@
 # Welcome to My Profile! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
+<a href="https://coelhof12.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white" alt="Visit my Website">
+</a>
+
+
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
 ## The Concept
