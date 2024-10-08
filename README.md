@@ -1,13 +1,13 @@
+# Welcome to My Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
+
+![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
+
 <h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
 <p align="center">
   <a href="https://github.com/coelhof12">
     <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946&repeat=true">
   </a>
 </p>
-
-# Welcome to My Journey! 👋  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
-
-![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
 
 ## The Concept 💡
 
