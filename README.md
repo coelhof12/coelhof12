@@ -1,6 +1,8 @@
-# 👋 Welcome to My Journey!  [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
+# 👋 Welcome to My Journey!  
 
 ![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
+
+[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
 <h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
 <p align="center">
