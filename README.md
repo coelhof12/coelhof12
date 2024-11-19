@@ -54,7 +54,6 @@ From a young age, I was fascinated by the potential of technology to transform i
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coelhof12&theme=dark&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&hide=issues,contribs&hide_rank=true&hide_title=true&theme=dark&border_radius=10&title_color=E63946&icon_color=E63946" alt="GitHub Stats" />
 </div>
 <div style="text-align: center; margin-top: 10px;">
