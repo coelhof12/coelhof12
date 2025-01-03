@@ -11,6 +11,8 @@
   </a>
 </p>
 
+I am currently working on developing a stock management system tailored to the needs of my company. While this project is not publicly available, exciting updates may be shared in the future. Stay tuned!
+
 ## 💡 The Concept
 
 This repository powers the content and layout of my GitHub profile, showcasing highlights of my projects, skills, and contributions to the developer community.
