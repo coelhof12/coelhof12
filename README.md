@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I am currently working on developing a stock management system tailored to the needs of my company. While this project is not publicly available, exciting updates may be shared in the future. Stay tuned!
+I’m currently developing a custom stock management system designed to meet my company’s unique needs. Although this project isn’t publicly accessible, I look forward to sharing updates and insights in the future. Stay tuned!
 
 ## 💡 The Concept
 
