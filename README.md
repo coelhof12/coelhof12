@@ -4,14 +4,14 @@
 
 [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
 
-<h3 align="center">Hi there! I'm Francisco Coelho 👨‍💻</h3>
+<h3 align="center">Hi there! My name is Francisco Coelho 👨‍💻</h3>
 <p align="center">
   <a href="https://github.com/coelhof12">
     <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946&repeat=true">
   </a>
 </p>
 
-I’m currently developing a custom stock management system designed to meet my company’s unique needs. Although this project isn’t publicly accessible, I look forward to sharing updates and insights in the future. Stay tuned!
+I’m currently developing a custom stock management system designed to meet my company’s unique needs. Although this project isn’t publicly accessible, I look forward to sharing updates and insights in the future.
 
 ## 💡 The Concept
 
@@ -70,4 +70,4 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## 🌐 Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or reach out via email. Let's build something amazing together!
+I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or reach out via email. Let's build together!
